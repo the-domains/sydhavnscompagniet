@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 18:07:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/4b82defe-311a-412b-b5f3-e8b6f39edc4a.jpg">]]></description>
+            <link>https://thegrid.ai/sydhavnscompagniet/003cd037-3fb3-4a65-96dd-f8980da78b54/index.html</link>
+            <guid isPermaLink="false">003cd037-3fb3-4a65-96dd-f8980da78b54</guid>
+            <pubDate>Wed, 11 Nov 2015 18:01:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisDVmo1xkF5RPtJkM4ZUc2qvf9-1LzTTk_ZTvAyfMDnAJi1dfSw">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/5f72c313-e718-47a8-8b1b-7f965b27a65c.jpg">]]></description>
             <link>https://thegrid.ai/sydhavnscompagniet/6230ec49-8b77-4a30-8f6f-1143adf34c13/index.html</link>
             <guid isPermaLink="false">6230ec49-8b77-4a30-8f6f-1143adf34c13</guid>
-            <pubDate>Wed, 11 Nov 2015 18:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8HtG_v-n4RHHiBEBvZApbMsU-76MXJPQLwhh0w0QyOTzculGh">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/e78552b2-8856-4eab-aa81-094ee0e4a0b9/index.html</link>
-            <guid isPermaLink="false">e78552b2-8856-4eab-aa81-094ee0e4a0b9</guid>
             <pubDate>Wed, 11 Nov 2015 18:00:48 GMT</pubDate>
         </item>
     </channel>
