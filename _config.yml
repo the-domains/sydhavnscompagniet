@@ -1,0 +1,24 @@
+name: SydhavnsCompagniet
+favicon: null
+layout_spectrum: 0.026629767147824168
+typography_spectrum: 0.5301291192881763
+title: SydhavnsCompagniet
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4754306278191507
+  lightness: 0.7246408127248287
+  saturation: 0.9076213408261538
+  rhythmicContrast: 0.8948496126104146
+purpose: []
