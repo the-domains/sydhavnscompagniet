@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 18:08:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw35oK7M0tvEn5IN0LizTpwFP5PaXt-5guNOhreMZImjfHuIYV">]]></description>
+            <link>https://thegrid.ai/sydhavnscompagniet/10d14cf8-f773-40ad-acac-e00b44b58723/index.html</link>
+            <guid isPermaLink="false">10d14cf8-f773-40ad-acac-e00b44b58723</guid>
+            <pubDate>Wed, 11 Nov 2015 18:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Klubber]]></title>
             <description><![CDATA[<article><h1>Klubber</h1><p>På IDVI's klubliste kan du finde kontaktoplysninger på alle klubber. Desuden kan du under klubber finde et forslag til vedtægter for idrætsklubber.</p><img src="http://www.idvi.dk/Files/Billeder/IDVI2011/Topbilleder/skilte.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sydhavnscompagniet/216e1771-6f5d-444f-ac32-77253cc122f5/index.html</link>
             <guid isPermaLink="false">216e1771-6f5d-444f-ac32-77253cc122f5</guid>
             <pubDate>Wed, 11 Nov 2015 18:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI6q0IsItDU7Ze1MI1tnLKalT9KAotSZyfGvy2YuGyRmN0-i-U">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/60207af9-95a2-4242-b2ad-a5a2637ab14d/index.html</link>
-            <guid isPermaLink="false">60207af9-95a2-4242-b2ad-a5a2637ab14d</guid>
-            <pubDate>Wed, 11 Nov 2015 18:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
