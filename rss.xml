@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 18:08:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Klubber]]></title>
+            <description><![CDATA[<article><h1>Klubber</h1><p>På IDVI's klubliste kan du finde kontaktoplysninger på alle klubber. Desuden kan du under klubber finde et forslag til vedtægter for idrætsklubber.</p><img src="http://www.idvi.dk/Files/Billeder/IDVI2011/Topbilleder/skilte.JPG"></article>]]></description>
+            <link>http://www.idvi.dk/Klubber.aspx</link>
+            <guid isPermaLink="false">593f9380-00bf-4740-929b-905d1bbb9fb9</guid>
+            <pubDate>Wed, 11 Nov 2015 18:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[En frivillig tjans i køkkenet]]></title>
             <description><![CDATA[<article><h1>En frivillig tjans i køkkenet</h1><p>Frivillighed. Friskslagtet får fra Tippens Fårelaug gav noget at se til, da SydhavnsCompagniet åbnede dørene til frivillighedens dag. Af René Mølskov rem@minby.dk For alle: Temperaturen i køkkenet ...</p><img src="http://minby.dk/valby-bladet/wp-content/uploads/2014/10/Val141001Frivillighedsdag_Sydhavnen_02.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI6q0IsItDU7Ze1MI1tnLKalT9KAotSZyfGvy2YuGyRmN0-i-U">]]></description>
             <link>https://thegrid.ai/sydhavnscompagniet/60207af9-95a2-4242-b2ad-a5a2637ab14d/index.html</link>
             <guid isPermaLink="false">60207af9-95a2-4242-b2ad-a5a2637ab14d</guid>
-            <pubDate>Wed, 11 Nov 2015 18:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1gtdWXvMFOGRehs0jGsuFir4rKPgwHwpz3o9L29TTOCH0RUP_IA">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/7bae3c26-62c2-44ba-9750-014c1b9b8e81/index.html</link>
-            <guid isPermaLink="false">7bae3c26-62c2-44ba-9750-014c1b9b8e81</guid>
             <pubDate>Wed, 11 Nov 2015 18:00:49 GMT</pubDate>
         </item>
     </channel>
