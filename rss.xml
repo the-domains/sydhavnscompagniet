@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 18:15:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SydhavnsCompagniet | Københavns Kommune]]></title>
+            <description><![CDATA[<article><h1>SydhavnsCompagniet | Københavns Kommune</h1><p>SydhavnsCompagniet er en innovativ projektorienteret civil- og lokalsamfundsaktør med base i Kgs. Enghave - i folkemunde kaldet Sydhavnen.</p><img src="http://www.kk.dk/sites/all/themes/kkdk_theme/logo.png"></article>]]></description>
+            <link>http://www.kk.dk/institution/sydhavnscompagniet</link>
+            <guid isPermaLink="false">b6222eab-c95b-46d2-a1c5-c6485ccc20fd</guid>
+            <pubDate>Wed, 11 Nov 2015 18:03:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>SydhavnsCompagniet har indledt et samarbejde med ejeren af Café Betty omkring salg af mad i forbindelse med, at der afholdes GRØN KONCERT i Valbyparken. Salget kommer til at foregå fra parkeringspladsen over for Café Betty, Hammelstrupvej 33.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://settlementet.dk/et-ar-med-udgaende-retshjaelp-sydhavnen/</link>
             <guid isPermaLink="false">8f8405f1-d99c-4057-b77f-b435a6977b0e</guid>
             <pubDate>Wed, 11 Nov 2015 18:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sydhavnsdreng vil samle hele bydelen]]></title>
-            <description><![CDATA[<article><h1>Sydhavnsdreng vil samle hele bydelen</h1><p>HISTORIER. Sydhavnens ry og historie er ofte for negativ. Sydhavnsdrengen Jan Arnt fortæller hvordan Sydhavnen og dens mennesker også er. Mød ham på tirsdag.</p><img src="http://minby.dk/valby-bladet/wp-content/uploads/2013/12/sydhavnsdreng-vil-samle-hele-bydelen.jpg"></article>]]></description>
-            <link>http://minby.dk/valby-bladet/sydhavnsdreng-vil-samle-hele-bydelen/</link>
-            <guid isPermaLink="false">f1e8819e-a9a2-4442-84c0-ef8a90876e1c</guid>
-            <pubDate>Wed, 11 Nov 2015 18:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
