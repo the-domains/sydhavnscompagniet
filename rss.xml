@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 18:09:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.sammenomsydhavnen.dk/modules/mod_news_pro_gk4/cache/stories.glimt.Kontor1nsp_524.jpg">]]></description>
+            <link>https://thegrid.ai/sydhavnscompagniet/091eea65-75bc-4d67-b9ad-43cff81ab7bf/index.html</link>
+            <guid isPermaLink="false">091eea65-75bc-4d67-b9ad-43cff81ab7bf</guid>
+            <pubDate>Wed, 11 Nov 2015 18:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jVQh-wXkdzmQXPrYy4ioG2UeobWJQ70WTimf-j_x9kkLLH9K">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/bd1f83ee-5146-4fd8-b1c4-f588b56c5a48.jpg">]]></description>
             <link>https://thegrid.ai/sydhavnscompagniet/daa3dff9-1885-4309-b744-4245b2451488/index.html</link>
             <guid isPermaLink="false">daa3dff9-1885-4309-b744-4245b2451488</guid>
-            <pubDate>Wed, 11 Nov 2015 18:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/4b82defe-311a-412b-b5f3-e8b6f39edc4a.jpg">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/003cd037-3fb3-4a65-96dd-f8980da78b54/index.html</link>
-            <guid isPermaLink="false">003cd037-3fb3-4a65-96dd-f8980da78b54</guid>
             <pubDate>Wed, 11 Nov 2015 18:01:47 GMT</pubDate>
         </item>
     </channel>
