@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 18:09:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sydhavnstippen " Blog Archive " Tak for en dejlig høstpicnic]]></title>
+            <description><![CDATA[<article><h1>Sydhavnstippen " Blog Archive " Tak for en dejlig høstpicnic</h1><p>Sydhavnscompagniet og deres frivillige tilberedte lamme- og fårekødet, som fårelauget havde doneret noget af. Laugsmedlemmerne selv delte smagsprøver ud, sundhedsambassadørerne og CPH Volunteers sørgede for ekstra hænder, og Opzoomerne havde gjort området ved naturskolen klar, så der var ryddeligt til vi alle kom.</p></article>]]></description>
+            <link>http://www.sydhavnstippen.dk/archives/6487</link>
+            <guid isPermaLink="false">ebe02c9a-c4fe-42bb-be78-508afa8d8417</guid>
+            <pubDate>Wed, 11 Nov 2015 18:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.sammenomsydhavnen.dk/modules/mod_news_pro_gk4/cache/stories.glimt.Kontor1nsp_524.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sydhavnscompagniet/bbbb0003-ff42-42c9-a5a3-3d24fb13f462/index.html</link>
             <guid isPermaLink="false">bbbb0003-ff42-42c9-a5a3-3d24fb13f462</guid>
             <pubDate>Wed, 11 Nov 2015 18:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/bd1f83ee-5146-4fd8-b1c4-f588b56c5a48.jpg">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/daa3dff9-1885-4309-b744-4245b2451488/index.html</link>
-            <guid isPermaLink="false">daa3dff9-1885-4309-b744-4245b2451488</guid>
-            <pubDate>Wed, 11 Nov 2015 18:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
