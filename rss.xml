@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 13:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 13:48:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MedborgerCenter Sydhavn, SydhavnsCompagniet]]></title>
+            <description><![CDATA[<article><h1>MedborgerCenter Sydhavn, SydhavnsCompagniet</h1><p>Forebyggelsescenter Amager Forebyggelsescenter Nørrebro Forebyggelsescenter Vanløse Forebyggelsescenter Vesterbro Forebyggelsescenter Østerbro</p></article>]]></description>
+            <link>http://sundhed.kk.dk/indhold/medborgercenter-sydhavn-sydhavnscompagniet</link>
+            <guid isPermaLink="false">e60ce80a-13e1-4b95-80e8-1fa704fc5166</guid>
+            <pubDate>Fri, 13 Nov 2015 13:45:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hapfind]]></title>
             <description><![CDATA[<article><h1>Hapfind</h1><p>Find happenings, events and activities to participate in today! Hapfind helps you find stuff to do every day! Find anything from flea markets to music concerts near you.</p><img src="http://puu.sh/dlYxv/12d257d034.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.sydhavnen.dk/</link>
             <guid isPermaLink="false">7b149065-9d45-42d7-97cc-557fdf15f9f9</guid>
             <pubDate>Wed, 11 Nov 2015 19:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SydhavnsCompagniet | Københavns Kommune]]></title>
-            <description><![CDATA[<article><h1>SydhavnsCompagniet | Københavns Kommune</h1><p>SydhavnsCompagniet er en innovativ projektorienteret civil- og lokalsamfundsaktør med base i Kgs. Enghave - i folkemunde kaldet Sydhavnen.</p><img src="http://www.kk.dk/sites/all/themes/kkdk_theme/logo.png"></article>]]></description>
-            <link>http://www.kk.dk/institution/sydhavnscompagniet</link>
-            <guid isPermaLink="false">b6222eab-c95b-46d2-a1c5-c6485ccc20fd</guid>
-            <pubDate>Wed, 11 Nov 2015 18:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
