@@ -19,10 +19,10 @@ keywords:
   - overblik
 description: 'For at se Dit Politiken, skal du logge ind på Politiken.dk'
 app_links: []
-isBasedOnUrl: 'http://politiken.dk/forbrugogliv/livsstil/familieliv/ECE2366356/ung-mor-droppede-uddannelse-pludselig-var-jeg-gravid/'
+isBasedOnUrl: 'http://politiken.dk/indland/ECE2444365/foertidspensionist-jeg-kom-tilbage-til-vaerestedet-med-en-pokal-jeg-kunne-vise-de-andre/'
 title: Politiken Artikelgrænse - politiken.dk
-datePublished: '2015-11-13T13:45:23.950Z'
-dateModified: '2015-11-11T18:42:11.243Z'
+datePublished: '2015-11-13T13:45:24.063Z'
+dateModified: '2015-11-11T18:41:04.072Z'
 sourcePath: _posts/2015-11-13-politiken-artikelgraense-politikendk.md
 published: true
 inFeed: true
