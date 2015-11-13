@@ -2,23 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.sydhavnen.dk'
   name: Sydhavnen
-  favicon: null
   domain: www.sydhavnen.dk
+  url: 'http://www.sydhavnen.dk'
+  favicon: null
 keywords: []
 description: ''
 inLanguage: da
 app_links: []
 isBasedOnUrl: 'http://www.sydhavnen.dk/'
 title: SydhavnsCompagniet
-datePublished: '2015-11-11T19:03:07.192Z'
-dateModified: '2015-11-11T16:20:11.835Z'
+datePublished: '2015-11-13T14:45:36.383Z'
+dateModified: '2015-11-13T14:45:20.323Z'
 sourcePath: _posts/2015-11-11-sydhavnscompagniet.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
