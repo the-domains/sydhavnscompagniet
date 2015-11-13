@@ -4,15 +4,8 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 13:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 13:46:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Don & Kenneth september 2015.]]></title>
-            <description><![CDATA[<article><h1>Don & Kenneth september 2015.</h1><p>Don & Kenneth spiller op til dans på Frivillig Fredag 2015 i SydhavnsCompagniet.</p><img src="https://i.ytimg.com/vi/elIiTanWW60/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=elIiTanWW60</link>
-            <guid isPermaLink="false">58a8129e-af2d-493d-a3a4-5253f506a3e1</guid>
-            <pubDate>Fri, 13 Nov 2015 13:45:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Don & Kenneth september 2015]]></title>
             <description><![CDATA[<article><h1>Don & Kenneth september 2015</h1><p>Don & Kenneth spiller op til dans på Frivillig Fredag 2015 i SydhavnsCompagniet.</p><img src="https://i.ytimg.com/vi/Y3oIK0ZuuJY/hqdefault.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://frivilligcentervsv.dk/borger/find-forening/259-sydhavnscompagniet</link>
             <guid isPermaLink="false">d713ec53-042c-440f-bf9f-6b8792a9f105</guid>
             <pubDate>Wed, 11 Nov 2015 18:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snart forælder? Få sparring hos Mødrehjælpen]]></title>
+            <description><![CDATA[<article><h1>Snart forælder? Få sparring hos Mødrehjælpen</h1><p>Mødrehjælpen i København støtter og rådgiver forældre og gravide under 30 år til at få en god og nem start på livet som familie. Læs mere her.</p><img src="https://moedrehjaelpen.dk/wp-content/themes/moedrehjaelpen/resources/images/footer_logo.png"></article>]]></description>
+            <link>https://moedrehjaelpen.dk/pa-vej-kobenhavn/</link>
+            <guid isPermaLink="false">414438c4-be8b-46b7-af5c-cffc3a982f44</guid>
+            <pubDate>Wed, 11 Nov 2015 18:03:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
