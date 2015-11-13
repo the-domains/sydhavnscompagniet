@@ -4,7 +4,7 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 15:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 15:31:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SydhavnsCompagniet]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.sydhavnen.dk/</link>
             <guid isPermaLink="false">7b149065-9d45-42d7-97cc-557fdf15f9f9</guid>
             <pubDate>Fri, 13 Nov 2015 14:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xlf1/t31.0-8/12045243_449148925257620_2799049976940501629_o.jpg">]]></description>
+            <link>https://thegrid.ai/sydhavnscompagniet/0241f38c-02d9-4ed3-8af5-25cd9d17aa80/index.html</link>
+            <guid isPermaLink="false">0241f38c-02d9-4ed3-8af5-25cd9d17aa80</guid>
+            <pubDate>Fri, 13 Nov 2015 15:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-frc3/t31.0-8/10928868_943393569018876_7292526641231266380_o.jpg">]]></description>
             <link>https://thegrid.ai/sydhavnscompagniet/01255aff-d5fc-4ba6-81c8-1a6e59257936/index.html</link>
             <guid isPermaLink="false">01255aff-d5fc-4ba6-81c8-1a6e59257936</guid>
-            <pubDate>Fri, 13 Nov 2015 15:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/1534749_943394605685439_9126396941606402273_o.jpg">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/0d0e82f4-7dbf-4ed7-ac0a-d2d385808e87/index.html</link>
-            <guid isPermaLink="false">0d0e82f4-7dbf-4ed7-ac0a-d2d385808e87</guid>
             <pubDate>Fri, 13 Nov 2015 15:26:59 GMT</pubDate>
         </item>
     </channel>
