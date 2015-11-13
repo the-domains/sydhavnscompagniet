@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 13:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 13:48:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Politiken Artikelgrænse - politiken.dk]]></title>
+            <description><![CDATA[<article><h1>Politiken Artikelgrænse - politiken.dk</h1><p>For at se Dit Politiken, skal du logge ind på Politiken.dk</p></article>]]></description>
+            <link>http://politiken.dk/forbrugogliv/livsstil/familieliv/ECE2366356/ung-mor-droppede-uddannelse-pludselig-var-jeg-gravid/</link>
+            <guid isPermaLink="false">78fc44dc-64a4-4aa9-a1e8-406f0f2944c5</guid>
+            <pubDate>Fri, 13 Nov 2015 13:45:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MedborgerCenter Sydhavn, SydhavnsCompagniet]]></title>
             <description><![CDATA[<article><h1>MedborgerCenter Sydhavn, SydhavnsCompagniet</h1><p>Forebyggelsescenter Amager Forebyggelsescenter Nørrebro Forebyggelsescenter Vanløse Forebyggelsescenter Vesterbro Forebyggelsescenter Østerbro</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=elIiTanWW60&amp;list=PLv1OBjZeBPNPd5dx-VjV4Y2UKqfFDHPMM&amp;index=3</link>
             <guid isPermaLink="false">1dfef967-fe32-4eab-940b-72b4fdb0dcba</guid>
             <pubDate>Fri, 13 Nov 2015 13:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SydhavnsCompagniet]]></title>
-            <description><![CDATA[<article><h1>SydhavnsCompagniet</h1><img src="http://sydhavnen.dk/onewebstatic/7f1bff8541-sydhavnscompagniet%20logo%2075mm%20tall.jpg"></article>]]></description>
-            <link>http://www.sydhavnen.dk/</link>
-            <guid isPermaLink="false">7b149065-9d45-42d7-97cc-557fdf15f9f9</guid>
-            <pubDate>Wed, 11 Nov 2015 19:03:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
