@@ -2,23 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.sammenomsydhavnen.dk'
   name: Sammenomsydhavnen
-  favicon: 'http://www.sammenomsydhavnen.dk/images/sammenomsydhavnen.ico'
   domain: www.sammenomsydhavnen.dk
+  url: 'http://www.sammenomsydhavnen.dk'
+  favicon: 'http://www.sammenomsydhavnen.dk/images/sammenomsydhavnen.ico'
 keywords: []
 description: 'amp;lt;h2&amp;gt;Så er det snart jul på Mozarts Plads igen.&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;'
 inLanguage: da
 app_links: []
 isBasedOnUrl: 'http://www.sammenomsydhavnen.dk/nyheder/item/247-jul-p%C3%A5-mozarts-plads'
 title: Sammen Om Sydhavnen - Jul på Mozarts Plads
-datePublished: '2015-11-11T18:01:48.576Z'
-dateModified: '2015-11-11T16:49:31.597Z'
+datePublished: '2015-11-13T18:13:44.259Z'
+dateModified: '2015-11-13T18:13:39.657Z'
 sourcePath: _posts/2015-11-11-sammen-om-sydhavnen-jul-pa-mozarts-plads.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
