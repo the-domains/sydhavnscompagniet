@@ -4,8 +4,15 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 18:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 18:15:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sammen Om Sydhavnen - Jul på Mozarts Plads]]></title>
+            <description><![CDATA[<article><h1>Sammen Om Sydhavnen - Jul på Mozarts Plads</h1><p>amp;lt;h2&amp;gt;Så er det snart jul på Mozarts Plads igen.&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;</p><img src="http://www.sammenomsydhavnen.dk/media/k2/items/cache/b320775de3c297425b69dccc362220a9_S.jpg"></article>]]></description>
+            <link>http://www.sammenomsydhavnen.dk/nyheder/item/247-jul-p%C3%A5-mozarts-plads</link>
+            <guid isPermaLink="false">40f4310a-8d1e-49b3-b9bb-9bddd7851d8e</guid>
+            <pubDate>Fri, 13 Nov 2015 18:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-frc3/t31.0-8/10928868_943393569018876_7292526641231266380_o.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sydhavnscompagniet/03613414-47b4-49a8-9a5f-4ac0ad039571/index.html</link>
             <guid isPermaLink="false">03613414-47b4-49a8-9a5f-4ac0ad039571</guid>
             <pubDate>Fri, 13 Nov 2015 15:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12087107_454911734681339_2397536088108115126_o.jpg">]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/979eb7b5-8f43-4135-901c-bd72e008479b/index.html</link>
-            <guid isPermaLink="false">979eb7b5-8f43-4135-901c-bd72e008479b</guid>
-            <pubDate>Fri, 13 Nov 2015 15:46:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
