@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-28T20:14:11.041Z'
-dateModified: '2015-11-28T20:14:06.426Z'
+description: Formål og historie
+datePublished: '2015-11-28T20:15:50.015Z'
+dateModified: '2015-11-28T20:15:46.566Z'
 title: Om SydhavnsCompagniet
 author: []
 sourcePath: _posts/2015-11-28-om-sydhavnscompagniet.md
