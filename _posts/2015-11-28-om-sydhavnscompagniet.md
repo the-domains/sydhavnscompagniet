@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-28T20:07:25.656Z'
-dateModified: '2015-11-28T20:07:13.046Z'
+datePublished: '2015-11-28T20:14:11.041Z'
+dateModified: '2015-11-28T20:14:06.426Z'
 title: Om SydhavnsCompagniet
 author: []
+sourcePath: _posts/2015-11-28-om-sydhavnscompagniet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-28-om-sydhavnscompagniet.md
-published: true
 url: om-sydhavnscompagniet/index.html
 _type: Article
 
