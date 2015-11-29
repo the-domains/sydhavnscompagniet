@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-28T19:59:37.468Z'
-dateModified: '2015-11-28T19:59:17.268Z'
+description: Frivillig i SydhavnsCompagniet
+datePublished: '2015-11-29T13:24:10.512Z'
+dateModified: '2015-11-29T13:24:07.239Z'
 title: Har du lyst til at gøre en forskel og møde nye mennesker?
 author: []
+sourcePath: _posts/2015-11-28-har-du-lyst-til-at-gore-en-forskel-og-mode-nye-mennesker.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-28-har-du-lyst-til-at-gore-en-forskel-og-mode-nye-mennesker.md
-published: true
 url: har-du-lyst-til-at-gore-en-forskel-og-mode-nye-mennesker/index.html
 _type: Article
 
