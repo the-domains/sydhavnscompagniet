@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-28T20:05:52.747Z'
-dateModified: '2015-11-28T20:05:40.907Z'
+description: Aktiviteter og indsatser
+datePublished: '2015-11-29T13:21:52.823Z'
+dateModified: '2015-11-29T13:21:48.432Z'
 title: 'Aktiviteter & indsatser'
 author: []
+sourcePath: _posts/2015-11-28-aktiviteter-and-indsatser.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-28-aktiviteter-and-indsatser.md
-published: true
 url: aktiviteter-and-indsatser/index.html
 _type: Article
 
