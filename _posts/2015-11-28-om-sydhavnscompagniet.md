@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Formål og historie
-datePublished: '2015-11-28T20:15:50.015Z'
-dateModified: '2015-11-28T20:15:46.566Z'
+datePublished: '2015-11-29T13:17:19.546Z'
+dateModified: '2015-11-29T13:17:12.822Z'
 title: Om SydhavnsCompagniet
 author: []
 sourcePath: _posts/2015-11-28-om-sydhavnscompagniet.md
