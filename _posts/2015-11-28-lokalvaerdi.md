@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-28T20:03:32.761Z'
-dateModified: '2015-11-28T20:03:20.584Z'
+description: Et beskæftigelsestilbud i Sydhavnen
+datePublished: '2015-11-29T13:23:11.652Z'
+dateModified: '2015-11-29T13:23:08.398Z'
 title: LOKALVÆRDI
 author: []
+sourcePath: _posts/2015-11-28-lokalvaerdi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-28-lokalvaerdi.md
-published: true
 url: lokalvaerdi/index.html
 _type: Article
 
 ---
--- Et beskæftigelsestilbud til dig i Sydhavnen/Kgs.Enghave 
+Et beskæftigelsestilbud til dig i Sydhavnen/Kgs.Enghave 
 
 * Styrk dine muligheder for arbejde og uddannelse
 * Vær med til at forskønne dit byområde
