@@ -4,7 +4,7 @@
         <description><![CDATA[SydhavnsCompagniet]]></description>
         <link>https://thegrid.ai/sydhavnscompagniet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 13:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 10:34:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnscompagniet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Fri, 13 Nov 2015 14:45:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-arn2-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/12239210_465893813583131_8291173511947174756_o.jpg">]]></description>
+            <link>https://thegrid.ai/sydhavnscompagniet/b617c7c8-6a68-4eef-9cab-eb63f359ac20/index.html</link>
+            <guid isPermaLink="false">b617c7c8-6a68-4eef-9cab-eb63f359ac20</guid>
+            <pubDate>Mon, 30 Nov 2015 10:34:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Har du lyst til at gøre en forskel og møde nye mennesker?]]></title>
             <description><![CDATA[<article><h1>Har du lyst til at gøre en forskel og møde nye mennesker?</h1><p>
 
@@ -78,13 +85,6 @@ Gennem motivations- og relationsarbejde iværksætter og gennemfører vi en bred
             <link>https://thegrid.ai/sydhavnscompagniet/aktiviteter-and-indsatser/index.html</link>
             <guid isPermaLink="false">8ca7f77f-ab36-4a50-a592-13b79ae0e4e9</guid>
             <pubDate>Sun, 29 Nov 2015 13:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Om SydhavnsCompagniet]]></title>
-            <description><![CDATA[<article><h1>Om SydhavnsCompagniet</h1><p>Formål</p></article>]]></description>
-            <link>https://thegrid.ai/sydhavnscompagniet/om-sydhavnscompagniet/index.html</link>
-            <guid isPermaLink="false">cd3092b6-9708-4567-bcda-e45f453d9d7c</guid>
-            <pubDate>Sun, 29 Nov 2015 13:17:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
