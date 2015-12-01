@@ -1,7 +1,7 @@
 name: SydhavnsCompagniet
 favicon: null
-layout_spectrum: 0.97652
-typography_spectrum: 0.00807
+layout_spectrum: 1
+typography_spectrum: 0
 title: SydhavnsCompagniet
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5f9e45'
     - '#9dc08b'
     - '#c66264'
-  brandStrength: 0.5
+  brandStrength: 0.5625
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.5
