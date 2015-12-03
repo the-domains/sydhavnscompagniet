@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Frivillig i SydhavnsCompagniet
-datePublished: '2015-12-03T16:04:18.062Z'
-dateModified: '2015-12-03T16:04:10.388Z'
+datePublished: '2015-12-03T16:08:04.065Z'
+dateModified: '2015-12-03T16:08:00.195Z'
 title: Har du lyst til at gøre en forskel og møde nye mennesker?
 author: []
 sourcePath: _posts/2015-11-28-har-du-lyst-til-at-gore-en-forskel-og-mode-nye-mennesker.md
@@ -68,12 +68,10 @@ Som frivillig i SydhavnsCompagniet kan du forvente:
 
 ...Men hvem skal jeg kontakte?
 
-Hvis du er interesseret og/eller har spørgsmål kan du kontakte:
+Hvis du er interesseret og/eller har spørgsmål skriv eller ring til:
 
-Jeanette Jansen
+Jeanette Jansen påjeanette@sydhavnscompagniet.dk
 
-Telefon: 60 40 81 40
+Telefon: +60408140
 
-Mail: jeanette@sydhavnscompagniet.dk 
-
-SydhavnsCompagniet, Peter Sabroes Gade 1, 2450 København SV
+MedborgerCenter Sydhavn, Peter Sabroes Gade 1, 2450 København SV
