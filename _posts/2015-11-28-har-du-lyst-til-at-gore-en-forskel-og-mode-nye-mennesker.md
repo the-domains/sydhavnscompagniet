@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Frivillig i SydhavnsCompagniet
-datePublished: '2015-11-29T13:24:10.512Z'
-dateModified: '2015-11-29T13:24:07.239Z'
+datePublished: '2015-12-03T16:04:18.062Z'
+dateModified: '2015-12-03T16:04:10.388Z'
 title: Har du lyst til at gøre en forskel og møde nye mennesker?
 author: []
 sourcePath: _posts/2015-11-28-har-du-lyst-til-at-gore-en-forskel-og-mode-nye-mennesker.md
@@ -70,7 +70,9 @@ Som frivillig i SydhavnsCompagniet kan du forvente:
 
 Hvis du er interesseret og/eller har spørgsmål kan du kontakte:
 
-Jeanette ?????
+Jeanette Jansen
+
+Telefon: 60 40 81 40
 
 Mail: jeanette@sydhavnscompagniet.dk 
 
