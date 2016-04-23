@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Foto galleri SydhavnsCompagniet
-datePublished: '2016-04-22T22:10:06.087Z'
-dateModified: '2016-04-22T22:03:32.997Z'
+datePublished: '2016-04-23T05:11:05.294Z'
+dateModified: '2016-04-23T05:10:43.860Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-foto-galleri-sydhavnscompagniet.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: foto-galleri-sydhavnscompagniet/index.html
 _type: Article
 
