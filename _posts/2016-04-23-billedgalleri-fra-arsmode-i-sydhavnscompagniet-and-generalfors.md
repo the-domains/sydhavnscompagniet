@@ -1,14 +1,16 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: 'Billedgalleri Fra Årsmøde i SydhavnsCompagniet & Generalforsamling i Sydhavnsforeningen 21 April 2016.'
-datePublished: '2016-04-23T10:25:48.396Z'
-dateModified: '2016-04-23T10:25:25.961Z'
+datePublished: '2016-04-23T10:33:53.448Z'
+dateModified: '2016-04-23T10:32:37.117Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-billedgalleri-fra-arsmode-i-sydhavnscompagniet-and-generalfors.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-billedgalleri-fra-arsmode-i-sydhavnscompagniet-and-generalfors.md
-published: true
 url: billedgalleri-fra-arsmode-i-sydhavnscompagniet-and-generalfors/index.html
-_type: Article
+_type: Blurb
 
 ---
 **Billedgalleri Fra Årsmøde i SydhavnsCompagniet & Generalforsamling i Sydhavnsforeningen 21 April 2016\.**
@@ -188,4 +188,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d192566-298f-4be8-a6c2-911bc304dd01.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9737fb7e-1047-4d3c-aaba-bbe99a60646c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/783ccc36-a3a1-491b-9d39-5c42a356fb88.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6be297b-d8dd-43b0-b2ea-3463af638810.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64657137-4b6c-4e8a-a9fd-48304d956746.jpg)
