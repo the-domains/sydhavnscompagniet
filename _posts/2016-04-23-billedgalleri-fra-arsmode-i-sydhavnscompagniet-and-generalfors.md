@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Billedgalleri Fra Årsmøde i SydhavnsCompagniet & Generalforsamling i Sydhavnsforeningen 21 April 2016.'
-datePublished: '2016-04-23T11:40:55.247Z'
-dateModified: '2016-04-23T11:40:44.319Z'
+datePublished: '2016-04-23T14:26:01.407Z'
+dateModified: '2016-04-23T14:25:21.311Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-billedgalleri-fra-arsmode-i-sydhavnscompagniet-and-generalfors.md
