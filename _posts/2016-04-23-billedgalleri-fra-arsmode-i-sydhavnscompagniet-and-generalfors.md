@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Billedgalleri Fra Årsmøde i SydhavnsCompagniet & Generalforsamling i Sydhavnsforeningen 21 April 2016.'
-datePublished: '2016-04-23T11:39:39.578Z'
-dateModified: '2016-04-23T11:36:19.028Z'
+datePublished: '2016-04-23T11:40:55.247Z'
+dateModified: '2016-04-23T11:40:44.319Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-billedgalleri-fra-arsmode-i-sydhavnscompagniet-and-generalfors.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: billedgalleri-fra-arsmode-i-sydhavnscompagniet-and-generalfors/index.html
-_type: Blurb
+_type: Article
 
 ---
 **Billedgalleri Fra Årsmøde i SydhavnsCompagniet & Generalforsamling i Sydhavnsforeningen 21 April 2016\.**
